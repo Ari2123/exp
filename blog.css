@@ -94,6 +94,7 @@ h1 a{
     justify-content: center;
     transition: all 500ms ease-out;
     overflow-clip-margin: content-box ;
+    cursor: url(imagenes/Coffee\ \(1\).cur), auto;
     
 }
 .perfil{
